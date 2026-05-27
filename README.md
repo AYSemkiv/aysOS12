@@ -16,5 +16,5 @@ CONS
 2. If you reset your PC, aysOS won't remember you. This is because your AppData folder also gets wiped.
 3. aysOS eats a lot of RAM and storage. This is because aysOS is just Chrome.
 
-See the history of aysOS here: https://youtube.com/watch?v=EcpZrmkvxxQ Don't want to download the app? Use this link then! https://turbowarp.org/embed.html?project_url=raw.githubusercontent.com/AYSemkiv/aysOS12/main/aysOS12.sb3&addons=full-screen,pause,remove-curved-stage-border
+See the history of aysOS here: https://youtube.com/watch?v=EcpZrmkvxxQ Don't want to download the app? Use this link then! https://turbowarp.org/fullscreen?project_url=raw.githubusercontent.com/AYSemkiv/aysOS12/main/aysOS12.sb3&addons=full-screen,pause,remove-curved-stage-border
 (aysCloud = aysOS)
