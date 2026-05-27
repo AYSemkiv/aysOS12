@@ -1,0 +1,27 @@
+{
+  "name": "aysOS",
+  "version": "12.0.0",
+  "author": "AYS",
+  "description": "aysOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.aysos.app",
+    "productName": "aysOS",
+    "icon": "build/icon.ico",
+    "win": {
+      "target": "nsis"
+    },
+    "nsis": {
+      "createStartMenuShortcut": true,
+      "shortcutName": "aysOS"
+    }
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^26.8.1"
+  }
+}
